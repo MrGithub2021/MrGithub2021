@@ -8,4 +8,4 @@ Check it out here: [My Project]( https://github.com/MrGithub2021/bartscroll.js )
 # Mood
 🌝
 # What I am learning now
-Currently, I am learning Unix(Shell) and Scala.
+Currently, I am learning Unix(Shell), Jupyter Notebook, and Scala.
