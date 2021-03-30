@@ -11,3 +11,5 @@ Check it out here: [My Project]( https://github.com/MrGithub2021/bartscroll.js )
 🌝
 # What I am learning now
 Currently, I am learning Unix(Shell), Jupyter Notebook, and Scala.
+
+Also, I am making a new programming language, Hammy!!
